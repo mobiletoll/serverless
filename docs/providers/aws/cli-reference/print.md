@@ -44,7 +44,7 @@ custom:
 
 provider:
   name: aws
-  runtime: nodejs12.x
+  runtime: nodejs16.x
   stage: ${opt:stage, "dev"}
 
 functions:
@@ -68,7 +68,7 @@ custom:
   bucketName: test
 provider:
   name: aws
-  runtime: nodejs12.x
+  runtime: nodejs16.x
   stage: dev # <-- Resolved
 functions:
   hello:

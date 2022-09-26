@@ -25,7 +25,7 @@ frameworkVersion: '>=1.0.0 <2.0.0'
 provider:
   name: azure
   region: West US 2
-  runtime: nodejs12.x
+  runtime: nodejs16.x
   prefix: sample # prefix of generated resource name
   subscriptionId: 00000000-0000-0000-0000-000000000000
   stage: ${opt:stage, 'dev'} # Set the default stage used. Default is dev

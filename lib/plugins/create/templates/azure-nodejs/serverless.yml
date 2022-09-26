@@ -20,7 +20,7 @@ frameworkVersion: '1'
 provider:
   name: azure
   region: West US 2
-  runtime: nodejs12
+  runtime: nodejs16
   # os: windows  # windows is default, linux is available
   # prefix: "sample"  # prefix of generated resource name
   # subscriptionId: A356AC8C-E310-44F4-BF85-C7F29044AF99

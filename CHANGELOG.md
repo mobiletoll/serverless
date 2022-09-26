@@ -836,7 +836,7 @@ All notable changes to this project will be documented in this file. See [standa
 - [Updates to CI/CD settings for the beta](https://github.com/serverless/serverless/pull/6972)
 - [rename output variables to outputs](https://github.com/serverless/serverless/pull/6971)
 - [Fix Tencent Template and Readme](https://github.com/serverless/serverless/pull/6984)
-- [Default to Nodejs12.x runtime](https://github.com/serverless/serverless/pull/6983)
+- [Default to nodejs16.x runtime](https://github.com/serverless/serverless/pull/6983)
 - [#6162: Support multiple schemas, don't overwrite RequestModels for each](https://github.com/serverless/serverless/pull/6954)
 - [Support empty deploymentPrefix](https://github.com/serverless/serverless/pull/6941)
 
