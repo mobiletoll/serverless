@@ -1,12 +1,3 @@
-# Serverless
-
-## GetStarted
-
-- Jira card https://transurbantech.atlassian.net/browse/GOT-4078
-- Fixed version 1.83
-
----
-
 👋🏾 **Please consider donating to these organizations to help fund an education in _technology_, _entrepreneurship_ and _leadership_ for POC. #BLM**
 
 - [Hidden Genius Project](https://www.hiddengeniusproject.org/donate/)
