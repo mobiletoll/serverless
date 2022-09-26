@@ -3,7 +3,7 @@
 ## GetStarted
 
 - Jira card https://transurbantech.atlassian.net/browse/GOT-4078
-- Fixed version 1.83.3
+- Fixed version 1.83
 
 ---
 
