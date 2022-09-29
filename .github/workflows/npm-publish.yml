@@ -1,7 +1,7 @@
 name: gpr-publish
 on:
-  release:
-    types: [published]
+  push:
+    branches: [ v1 ]
 jobs:
   gpr-publish:
     runs-on: ubuntu-latest
