@@ -1,0 +1,19 @@
+name: gpr-publish
+on:
+  release:
+    types: [published]
+jobs:
+  gpr-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+          registry-url: https://npm.pkg.github.com/
+      - run: npm ci
+      - run: pkg:build
+      - run: pkg:upload
+#       - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
