@@ -6,6 +6,9 @@
   "homepage": "https://serverless.com/framework/docs/",
   "author": "serverless.com,mobiletoll",
   "repository": "serverless/serverless",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "serverless",
     "lambda",
