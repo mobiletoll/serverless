@@ -1,5 +1,5 @@
 {
-  "name": "@mobiletoll/serverless",
+  "name": "got-serverless",
   "version": "1.83.5",
   "description": "Modified version for GoToll",
   "preferGlobal": true,
