@@ -1,7 +1,7 @@
 {
   "name": "@mobiletoll/serverless",
   "version": "1.83.5",
-  "description": "Modified version for GoToll",
+  "description": "Modified version for GoToll.",
   "preferGlobal": true,
   "homepage": "https://serverless.com/framework/docs/",
   "author": "serverless.com,mobiletoll",
